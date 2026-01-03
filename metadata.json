@@ -1,0 +1,5 @@
+{
+  "name": "Full-Stack Project Builder",
+  "description": "An AI tool that converts any idea into a mandatory full-stack application with a Python Flask backend and HTML/JS frontend.",
+  "requestFramePermissions": []
+}
